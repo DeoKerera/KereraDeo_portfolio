@@ -23,6 +23,6 @@
   - CSS
 ### Social links
 -github_username: DeoKerera
--email: kerera233@example.com
+-email: kerera233@gmail.com
 -twitter: @DeoKerera
 
