@@ -1,0 +1,7 @@
+# _config.yml
+
+title: "Your Name's Portfolio"
+logo: assets/profile.jpg
+show_download: true
+theme: minima
+
