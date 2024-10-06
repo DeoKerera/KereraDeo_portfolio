@@ -2,6 +2,7 @@
 ### Education:
   - UACE Certificate, 2021
   - BSc. Electrical Engineering, Makerere University (ongoing)
+    
 ### Work experience:
   - 1 year of software development
   - 2 years in data science"
@@ -12,6 +13,7 @@
   - Alima Shopping Mobile Application
   - CGPA Calculator Mobile Application
   - OneTap HealthCare Mobile App
+
 ### skills:
   - Android Development (Kotlin, Java)
   - Data Science
@@ -21,6 +23,7 @@
   - Dart
   - HTML
   - CSS
+
 ### Social links
 -github_username: DeoKerera
 -email: kerera233@gmail.com
