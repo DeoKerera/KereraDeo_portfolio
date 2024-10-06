@@ -23,7 +23,7 @@ name: Kerera Deo
   - HTML
   - CSS
 ### Social links
-github_username: DeoKerera
-email: kerera233@example.com
-twitter: @DeoKerera
+-github_username: DeoKerera
+-email: kerera233@example.com
+-twitter: @DeoKerera
 
