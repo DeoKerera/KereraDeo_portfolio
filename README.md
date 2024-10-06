@@ -1,1 +1,29 @@
-# KereraDeo_portfolio
+# Android Developer
+name: Kerera Deo
+### Education:
+  - UACE Certificate, 2021
+  - BSc. Electrical Engineering, Makerere University (ongoing)
+### Work experience:
+  - 1 year of software development
+  - 2 years in data science"
+  - 4 years experience in the mentioned languages
+
+### Projects:
+  - Security Alarm System using Arduino
+  - Alima Shopping Mobile Application
+  - CGPA Calculator Mobile Application
+  - OneTap HealthCare Mobile App
+### skills:
+  - Android Development (Kotlin, Java)
+  - Data Science
+  - Python
+  - C++
+  - C
+  - Dart
+  - HTML
+  - CSS
+### Social links
+github_username: DeoKerera
+email: kerera233@example.com
+twitter: @DeoKerera
+
