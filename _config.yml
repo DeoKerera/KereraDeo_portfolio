@@ -1,7 +1,7 @@
 # _config.yml
 
 title: Kerera Deo
-logo: assets/Profile.jpg
+logo: Profile.jpg
 show_download: true
 theme: minima
 
