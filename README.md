@@ -1,5 +1,4 @@
 # Android Developer
-name: Kerera Deo
 ### Education:
   - UACE Certificate, 2021
   - BSc. Electrical Engineering, Makerere University (ongoing)
